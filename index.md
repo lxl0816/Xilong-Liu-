@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/lxl0816/lxl0816.github.io/raw/master/images/logo.png" width="50%">
 </p>
 
 ---
@@ -20,7 +20,7 @@ _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMG_0457.JPG?raw=true"/>
 
 ---
 
