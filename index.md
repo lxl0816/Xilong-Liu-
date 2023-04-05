@@ -1,14 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+I am a student...
 
-I am an awesome student at Lehigh, you should hire me!
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="IMG_0457.JPG" src="https://github.com/lxl0816/lxl0816.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
