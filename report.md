@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # 1. Summary
 
 This analysis aims to explore the relationship between sentiment and stock returns using a dataset of 10-K filings from publicly traded US firms from 1995-2014. The sample consists of 5,000 firms, and sentiment is measured using both a rule-based approach (LM Sentiment) and a machine learning approach (ML Sentiment). In addition to overall sentiment measures, three contextual sentiment measures are constructed for topics related to innovation, risk, and litigation. The results show that sentiment is positively related to stock returns, with stronger relationships observed for the ML Sentiment measures compared to the LM Sentiment measures. Furthermore, the contextual sentiment measures also show some evidence of value relevance for firms in certain contexts.
