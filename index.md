@@ -44,7 +44,7 @@ In the short-term of my careerafter graduated, I foresee myself becoming an inve
 
 ## Hobbies
 - Lehigh Basketball club Athlete 
-- Lehigh inter-collgiate volleyball team member
+- Lehigh Intercollegiatevolleyball team member
 - Ski
 - Texas Holdem 
 
