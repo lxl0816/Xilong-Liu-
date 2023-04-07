@@ -11,9 +11,9 @@ Hi! My name is Xilong Liu from Shenzhen China, and I am a student at Lehigh Univ
 
 _**[Natural language processing 10-Ks to identify risks](report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+The purpose of this report is to explore the relationship between sentiment and stock returns using a dataset of 10-K filings from publicly traded US firms from 1995-2014. The report provides a summary of the analysis, including the data section, the findings, and results. The analysis uses both a rule-based approach (LM Sentiment) and a machine learning approach (ML Sentiment) to measure sentiment. In addition, three contextual sentiment measures are constructed for topics related to innovation, risk, and litigation. The results show that sentiment is positively related to stock returns, with stronger relationships observed for the ML Sentiment measures compared to the LM Sentiment measures. Furthermore, the contextual sentiment measures also show some evidence of value relevance for firms in certain contexts. The report includes a table with the correlation of each sentiment measure against both return measures, scatterplots of each sentiment measure against both return measures, and four discussion topics.
 
-<img src="images/IMG_0457.JPG?raw=true"/>
+<img src="images/Regression graph.png?raw=true"/>
 
 ---
 
