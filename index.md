@@ -43,10 +43,10 @@ In the short-term of my careerafter graduated, I foresee myself becoming an inve
 ---
 
 ## Hobbies
-Lehigh Basketball club Athlete 
-Lehigh inter-collgiate volleyball team member
-Ski
-Texas Holdem 
+- Lehigh Basketball club Athlete 
+- Lehigh inter-collgiate volleyball team member
+- Ski
+- Texas Holdem 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
