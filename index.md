@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Xilong Liu from Shenzhen China, and I am a student at Lehigh University majoring Finance and Consulting Management. I am a passion buisness student who is pursing use data and insight to solve finance problem. I am going to continue study in graduate this summer!!!
+Hi! My name is Xilong Liu from Shenzhen China, and I am a student at Lehigh University majoring Finance and Consulting Management. I am a passion buisness student who is pursing use data and insight to solve finance problem. I am going to continue my academice in graduate school this summer!!!
 
 
 ---
