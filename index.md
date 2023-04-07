@@ -1,7 +1,6 @@
 ## About Me
 
-I am a student...
-
+Hi! My name is Xilong Liu from Shenzhen China, and I am a student at Lehigh University majoring Finance and Consulting Management. I am a passion buisness student who is pursing use data and insight to solve finance problem. I am going to continue study in graduate this summer!!!
 
 
 ---
@@ -39,16 +38,15 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 ---
 
 ## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
+In the short-term of my careerafter graduated, I foresee myself becoming an investment/equity research analyst with a major sell-side brokerage house that has a global footprint. Also, from a longer insight, i would like to leverage the relationships and knowledge I gain along the way to enter private equit.
 
 ---
 
 ## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Lehigh Basketball club Athlete 
+Lehigh inter-collgiate volleyball team member
+Ski
+Texas Holdem 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
