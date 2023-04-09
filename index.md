@@ -27,7 +27,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/graph3.png?raw=true"/>
+<img src="images/graph 3.png?raw=true"/>
 
 ---
 
